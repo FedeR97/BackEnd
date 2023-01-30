@@ -36,7 +36,6 @@ com\portfolio\FAR\Dto\dtoEducacion.class
 com\portfolio\FAR\Entity\Habilidades.class
 com\portfolio\FAR\Dto\dtoHabilidades.class
 com\portfolio\FAR\Repository\RHabilidades.class
-com\portfolio\FAR\WebConfig.class
 com\portfolio\FAR\Controller\CProyectos.class
 com\portfolio\FAR\Entity\Educacion.class
 com\portfolio\FAR\Security\Service\UsuarioService.class
